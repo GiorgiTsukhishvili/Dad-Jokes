@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: sans-serif;
+  color: #78909c;
+  background: linear-gradient(
+    135deg,
+    rgb(177, 233, 250) 0%,
+    rgb(177, 233, 250) 50%,
+    purple 50%,
+    purple 100%
+  );
+}
